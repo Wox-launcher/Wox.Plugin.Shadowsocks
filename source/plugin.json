@@ -1,0 +1,12 @@
+{
+    "ID":"D2D3C24A684D411DB66FE1B89D6C3B1B",
+    "ActionKeyword":"ss",
+    "Name":"Shadowsocks for windows",
+    "Description":"add domain to pac file",
+    "Author":"qianlifeng",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"http://www.getwox.com",
+    "ExecuteFileName":"main.py",
+    "IcoPath": "ssw.png"
+}
