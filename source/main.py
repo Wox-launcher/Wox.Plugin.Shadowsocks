@@ -31,7 +31,7 @@ class Shadowsocks(Wox):
         res = []
         res.append({
             "Title": "add {} to Shadowsocks PAC list".format(query),
-            "IcoPath":"kitty.png",
+            "IcoPath":"ssw.png",
             "JsonRPCAction":{"method": "add_new_domain", "parameters": [query]}
             })
         return res
